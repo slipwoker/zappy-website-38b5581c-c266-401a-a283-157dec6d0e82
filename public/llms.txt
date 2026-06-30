@@ -1,0 +1,55 @@
+# Roblox game — Generative Engine Optimization Map
+
+> A personal gaming and social media link-in-bio style website for a content creator and Roblox game developer. The creator is active on TikTok (@pinibrawlstars4) and X/Twitter (@piniqd36), and has an upcoming Roblox game. The site should showcase all social links and the Roblox game with official platform branding and logos.
+
+---
+
+## Pages
+
+### בית
+https://roblox-game-38b5581c.zappy5.app
+יוצר תוכן ומפתח רובלוקס מביא לך הצצה ראשונה למשחק החדש. עקוב אחריי בטיקטוק ובטוויטר והישאר מעודכן בכל הפיתוחים. היכנס עכשיו לקהילה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://roblox-game-38b5581c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://roblox-game-38b5581c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://roblox-game-38b5581c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Roblox game
+A personal gaming and social media link-in-bio style website for a content creator and Roblox game developer. The creator is active on TikTok (@pinibrawlstars4) and X/Twitter (@piniqd36), and has an upcoming Roblox game. The site should showcase all social links and the Roblox game with official platform branding and logos.
+
+## Target Audience
+- גיימרים, עוקבים ברשתות חברתיות
+- גיימרים ועוקבים ברשתות
+- מפתחים של רובלוקס
+- יוצרי תוכן גיימינג
+
+## Industry
+Gaming & Social Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://roblox-game-38b5581c.zappy5.app/sitemap.xml
+- Robots: https://roblox-game-38b5581c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://roblox-game-38b5581c.zappy5.app/llms-full.txt
