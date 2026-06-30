@@ -2,13 +2,13 @@
 
 A personal gaming and social media link-in-bio style website for a content creator and Roblox game developer. The creator is active on TikTok (@pinibrawlstars4) and X/Twitter (@piniqd36), and has an upcoming Roblox game. The site should showcase all social links and the Roblox game with official platform branding and logos.
 
-Source: https://roblox-game-38b5581c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את משחק הרובלוקס הבא שלך — Roblox game
 
-URL: https://roblox-game-38b5581c.zappy5.app
+URL: https://example.com
 Description: יוצר תוכן ומפתח רובלוקס מביא לך הצצה ראשונה למשחק החדש. עקוב אחריי בטיקטוק ובטוויטר והישאר מעודכן בכל הפיתוחים. היכנס עכשיו לקהילה!
 
 גלה את משחק הרובלוקס הבא שלך — Roblox game
@@ -625,7 +625,7 @@ X @piniqd36
 
 ## מדיניות פרטיות
 
-URL: https://roblox-game-38b5581c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -875,7 +875,7 @@ Roblox game ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://roblox-game-38b5581c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1134,7 +1134,7 @@ Roblox game מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://roblox-game-38b5581c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
